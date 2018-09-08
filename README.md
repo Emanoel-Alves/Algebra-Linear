@@ -1,2 +1,2 @@
-# -lgebra-Linear
+# Álgebra-Linear
 Calculadora de Matrizes e Sistemas
