@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgebraLinear", "AlgebraLinear\AlgebraLinear.csproj", "{817CCD9D-8746-44B0-9C20-0719CC09E8AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{817CCD9D-8746-44B0-9C20-0719CC09E8AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817CCD9D-8746-44B0-9C20-0719CC09E8AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817CCD9D-8746-44B0-9C20-0719CC09E8AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817CCD9D-8746-44B0-9C20-0719CC09E8AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D158CFE3-6278-4893-87DE-A7C280781FDC}
+	EndGlobalSection
+EndGlobal
